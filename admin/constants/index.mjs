@@ -90,6 +90,7 @@ export const products = [
     name: "Campfire Audio Ara",
     images: [
       "http://localhost:8000/assets/itemAndLogo/baiem/ara.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/arag.jpg",
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -111,6 +112,7 @@ export const products = [
     name: "Nocturnal Audio Atlantis",
     images: [
       "http://localhost:8000/assets/itemAndLogo/baiem/atlantis.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/atlantisg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -131,7 +133,8 @@ export const products = [
     _id: 2003,
     name: "Dunu SA6 MKII",
     images: [
-      "http://localhost:8000/assets/itemAndLogo/baiem/dunusa6mkii.jpg",
+      "http://localhost:8000/assets/itemAndLogo/baiem/dunusa6mkii.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/sa6mkiig.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -153,6 +156,7 @@ export const products = [
     name: "Sony M7",
     images: [
       "http://localhost:8000/assets/itemAndLogo/baiem/m7.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/m7g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -174,6 +178,7 @@ export const products = [
     name: "Fearless Audio S8Z",
     images: [
       "http://localhost:8000/assets/itemAndLogo/baiem/s8z.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/s8zg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -195,6 +200,7 @@ export const products = [
     name: "Moondrop Chu",
     images: [
       "http://localhost:8000/assets/itemAndLogo/diem/chu.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/chug.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -215,7 +221,8 @@ export const products = [
     _id: 2007,
     name: "Dunu Luna",
     images: [
-      "http://localhost:8000/assets/itemAndLogo/diem/luna.jpg",
+      "http://localhost:8000/assets/itemAndLogo/diem/luna.png",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/lunag.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -237,6 +244,7 @@ export const products = [
     name: "Tanchjim Origin",
     images: [
       "http://localhost:8000/assets/itemAndLogo/diem/origin.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/origing.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -258,6 +266,7 @@ export const products = [
     name: "Softears Turii",
     images: [
       "http://localhost:8000/assets/itemAndLogo/diem/turii.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/turiig.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -279,6 +288,7 @@ export const products = [
     name: "Sennheiser HD600",
     images: [
       "http://localhost:8000/assets/itemAndLogo/over_ear/hd600.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/hd600g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -300,6 +310,7 @@ export const products = [
     name: "Sennheiser HD800S",
     images: [
       "http://localhost:8000/assets/itemAndLogo/over_ear/hd800s.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/hd800sg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -321,6 +332,7 @@ export const products = [
     name: "Focal Bathys",
     images: [
       "http://localhost:8000/assets/itemAndLogo/over_ear/bathys.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/bathysg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -342,6 +354,7 @@ export const products = [
     name: "Hifiman Sundara",
     images: [
       "http://localhost:8000/assets/itemAndLogo/over_ear/sundarav2.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/sundarag.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -363,6 +376,7 @@ export const products = [
     name: "Beyerdynamic DT1990 Pro",
     images: [
       "http://localhost:8000/assets/itemAndLogo/over_ear/dt1990pro.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/dt1990prog.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -384,6 +398,7 @@ export const products = [
     name: "Shure Aonic 50",
     images: [
       "http://localhost:8000/assets/itemAndLogo/wireless/aonic.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/aonicg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -405,6 +420,7 @@ export const products = [
     name: "Sennheiser Momentum 4",
     images: [
       "http://localhost:8000/assets/itemAndLogo/wireless/momentum.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/momentumg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -426,6 +442,7 @@ export const products = [
     name: "Sony WH-1000XM5",
     images: [
       "http://localhost:8000/assets/itemAndLogo/wireless/sony.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/sonyg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -447,6 +464,7 @@ export const products = [
     name: "B&W PX",
     images: [
       "http://localhost:8000/assets/itemAndLogo/wireless/px.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/pxg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -468,6 +486,7 @@ export const products = [
     name: "B&O BeoPlay H7",
     images: [
       "http://localhost:8000/assets/itemAndLogo/wireless/h7.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/h7g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -489,6 +508,7 @@ export const products = [
     name: "Dita Dream XLS",
     images: [
       "http://localhost:8000/assets/itemAndLogo/diem/xls.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/xlsg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
