@@ -6,6 +6,7 @@ const Loading = () => {
       <RotatingLines
         visible={true}
         strokeWidth="5"
+        strokeColor="blue"
         animationDuration="0.75"
         ariaLabel="rotating-lines-loading"
       />
