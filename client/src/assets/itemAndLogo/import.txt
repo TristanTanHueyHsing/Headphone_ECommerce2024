@@ -1,0 +1,2 @@
+import images of headphones and graphs and whatever images
+and also js files
