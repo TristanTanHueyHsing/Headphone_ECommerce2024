@@ -449,7 +449,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/wireless/px.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 350,
     discountedPrice: 330,
     quantity: 1,
@@ -470,7 +470,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/wireless/h7.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 120,
     discountedPrice: 100,
     quantity: 1,
@@ -491,7 +491,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/diem/xls.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 450,
     discountedPrice: 410,
     quantity: 1,
@@ -512,7 +512,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/hybridiem/x.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 350,
     discountedPrice: 320,
     quantity: 1,
@@ -533,7 +533,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/hybridiem/evo.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 250,
     discountedPrice: 240,
     quantity: 1,
@@ -554,7 +554,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/hybridiem/nemesis.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 600,
     discountedPrice: 580,
     quantity: 1,
@@ -575,7 +575,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/baiem/ety.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 80,
     discountedPrice: 70,
     quantity: 1,
@@ -596,7 +596,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/diem/a8000.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 220,
     discountedPrice: 210,
     quantity: 1,
@@ -617,7 +617,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/diem/falconPro.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 290,
     discountedPrice: 130,
     quantity: 1,
@@ -638,7 +638,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/hybridiem/trinity.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 660,
     discountedPrice: 630,
     quantity: 1,
@@ -659,7 +659,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/diem/jvc.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 500,
     discountedPrice: 445,
     quantity: 1,
@@ -680,7 +680,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/openBack/wraith.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 820,
     discountedPrice: 810,
     quantity: 1,
@@ -701,7 +701,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/openBack/elite.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 270,
     discountedPrice: 250,
     quantity: 1,
@@ -722,7 +722,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/closedBack/th909.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 120,
     discountedPrice: 100,
     quantity: 1,
@@ -743,7 +743,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/closedBack/mdrz1r.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 520,
     discountedPrice: 510,
     quantity: 1,
@@ -764,7 +764,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/closedBack/99classic.png",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 100,
     discountedPrice: 80,
     quantity: 1,
@@ -785,7 +785,7 @@ export const products = [
      "http://localhost:8000/assets/itemAndLogo/closedBack/awkt.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 200,
     discountedPrice: 100,
     quantity: 1,
@@ -806,7 +806,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/openBack/he1000.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 1000,
     discountedPrice: 810,
     quantity: 1,
@@ -827,7 +827,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/openBack/stax.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 720,
     discountedPrice: 510,
     quantity: 1,
@@ -848,7 +848,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/planariem/szalayi.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 620,
     discountedPrice: 550,
     quantity: 1,
@@ -869,7 +869,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/planariem/stellaris.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 160,
     discountedPrice: 110,
     quantity: 1,
@@ -890,7 +890,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/planariem/euclid.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 120,
     discountedPrice: 110,
     quantity: 1,
@@ -911,7 +911,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/planariem/s12.webp",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 50,
     discountedPrice: 20,
     quantity: 1,
@@ -932,7 +932,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/tws/mw07.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 800,
     discountedPrice: 510,
     quantity: 1,
@@ -953,7 +953,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/tws/nobleFalcon.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 2520,
     discountedPrice: 2310,
     quantity: 1,
@@ -974,7 +974,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/tws/tevi.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 520,
     discountedPrice: 410,
     quantity: 1,
@@ -995,7 +995,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/tws/nuarl.jpg",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 400,
     discountedPrice: 400,
     quantity: 1,
@@ -1016,7 +1016,7 @@ export const products = [
       "http://localhost:8000/assets/itemAndLogo/tws/1000xm3.png",
     ],
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
+      "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
     regularPrice: 620,
     discountedPrice: 550,
     quantity: 1,
