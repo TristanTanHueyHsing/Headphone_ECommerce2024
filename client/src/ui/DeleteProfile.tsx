@@ -1,4 +1,3 @@
-import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { getAuth, deleteUser } from 'firebase/auth';
 import { getFirestore, doc, getDoc, deleteDoc } from 'firebase/firestore';

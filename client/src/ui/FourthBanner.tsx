@@ -1,6 +1,5 @@
 import { fourthBanner } from "../assets";
 import Container from "./Container";
-import LinkButton2 from "./LinkButton2";
 
 const FourthBanner = () => {
     return (

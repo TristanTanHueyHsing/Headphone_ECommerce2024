@@ -4,7 +4,7 @@ import { MdPhotoLibrary } from "react-icons/md";
 import { auth, db } from "../lib/firebase";
 import upload from "../lib/upload";
 import { doc, getDoc, updateDoc } from "firebase/firestore";
-import { getAuth, updateEmail, updatePassword, reauthenticateWithCredential, EmailAuthProvider } from "firebase/auth";
+import { updateEmail, updatePassword, reauthenticateWithCredential, EmailAuthProvider } from "firebase/auth";
 import Container from "./Container";
 
 interface UserData {

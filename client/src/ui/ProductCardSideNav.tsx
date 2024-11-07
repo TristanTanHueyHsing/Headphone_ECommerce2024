@@ -1,5 +1,4 @@
-import { FaRegEye, FaRegStar, FaStar } from "react-icons/fa";
-import { LuArrowLeftRight } from "react-icons/lu";
+import { FaRegStar, FaStar } from "react-icons/fa";
 import { ProductProps } from "../../type";
 import { store } from "../lib/store";
 import { useEffect, useState } from "react";
