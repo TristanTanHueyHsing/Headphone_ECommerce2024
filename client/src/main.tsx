@@ -19,6 +19,7 @@ import Success from "./pages/Success.tsx";
 import Layout from "./ui/Layout.tsx";
 import Guide from "./pages/Guide.tsx";
 import EditProfile from "./ui/EditProfile.tsx";
+import DeleteProfile from "./ui/DeleteProfile.tsx";
 
 const RouterLayout = () => {
   return (
@@ -85,6 +86,10 @@ const router = createBrowserRouter([
       {
         path: "/editProfile",
         element: <EditProfile />,
+      },
+      {
+        path: "/deleteProfile",
+        element: <DeleteProfile />,
       },
       {
         path: "*",
