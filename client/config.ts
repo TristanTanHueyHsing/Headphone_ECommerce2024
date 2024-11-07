@@ -6,12 +6,12 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseUrl: "http://localhost:8000/",
+        baseUrl: "http://localhost:8000",
       };
       break;
     case "local":
       config = {
-        baseUrl: "http://localhost:8000/",
+        baseUrl: "http://localhost:8000",
       };
       break;
     default:
