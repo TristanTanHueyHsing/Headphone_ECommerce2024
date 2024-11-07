@@ -11,7 +11,7 @@ const checkConfig = (server: string): Config | {} => {
       break;
     case "local":
       config = {
-        baseUrl: "https://headphone-e-commerce2024server.vercel.app/",
+        baseUrl: "http://localhost:8000/",
       };
       break;
     default:
