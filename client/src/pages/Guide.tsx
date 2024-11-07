@@ -288,8 +288,4 @@ export default Guide;
 
 
 
-//<div className="bg-blue-50 p-8 rounded-lg shadow-lg">
-//<p className="text-lg">This information is taken from <a href="https://www.example.com" style={{color:'blue'}}>Example Website</a>. Feel free to click the link to learn more.</p>
-//</div>
 
-//https://hifigo.com/blogs/guide/frequency-response
