@@ -18,6 +18,7 @@ import Profile from "./pages/Profile.tsx";
 import Success from "./pages/Success.tsx";
 import Layout from "./ui/Layout.tsx";
 import Guide from "./pages/Guide.tsx";
+import EditProfile from "./ui/EditProfile.tsx";
 
 const RouterLayout = () => {
   return (
@@ -80,6 +81,10 @@ const router = createBrowserRouter([
       {
         path: "/guide",
         element: <Guide />,
+      },
+      {
+        path: "/editProfile",
+        element: <EditProfile />,
       },
       {
         path: "*",
