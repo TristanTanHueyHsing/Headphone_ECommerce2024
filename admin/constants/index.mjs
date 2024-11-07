@@ -13,7 +13,7 @@ export const categories = [
   {
     _id: 1001,
     name: "Open Back Headphones",
-    image: "http://localhost:8000/assets/itemAndLogo/baiem/ara.jpg",
+    image: "http://localhost:8000/assets/itemAndLogo/openBack/wraith.webp",
     description:
       "Open-back headphones are a type of headphone that allows air to pass through the ear cups from the rear of the speaker driver.",
     _base: "openBackHeadphones",
@@ -21,7 +21,7 @@ export const categories = [
   {
     _id: 1002,
     name: "Closed Back Headphones",
-    image: "https://i.ibb.co/71hR65V/catTvBox.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/closedBack/99classic.png",
     description:
       "Closed-back headphones are a type of headphone that completely seals the back of the ear cups, creating a closed chamber around the speaker driver. ",
     _base: "closedBackHeadphones",
@@ -29,7 +29,7 @@ export const categories = [
   {
     _id: 1003,
     name: "Over Ear Headphones",
-    image: "https://i.ibb.co/71hR65V/catTvBox.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/over_ear/dt1990pro.webp",
     description:
       "Closed-back headphones are a type of headphone that completely seals the back of the ear cups, creating a closed chamber around the speaker driver. ",
     _base: "overEarHeadphones",
@@ -37,7 +37,7 @@ export const categories = [
   {
     _id: 1004,
     name: "Wireless Headphones",
-    image: "https://i.ibb.co/0V0g6Gz/cat-Powertool.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/wireless/h7.webp",
     description:
       "Wireless headphones offer the freedom to move around without the constraints of tangled wires. They connect to your devices via Bluetooth or other wireless technologies, allowing you to enjoy your music, podcasts, or calls without being tethered to a device.",
     _base: "wirelessHeadphones",
@@ -45,7 +45,7 @@ export const categories = [
   {
     _id: 1005,
     name: "Planar IEM",
-    image: "https://i.ibb.co/zST2Xdp/cat-Headphone.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/planariem/stellaris.jpg",
     description:
       "Planar Magnetic IEMs offer a detailed and accurate sound with a wide soundstage. They use a large, flat diaphragm suspended between magnets to produce sound, resulting in a unique listening experience.",
     _base: "planarIEM",
@@ -53,7 +53,7 @@ export const categories = [
   {
     _id: 1006,
     name: "Hybrid IEM",
-    image: "https://i.ibb.co/jgk59BL/catPhone.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/hybridiem/nemesis.webp",
     description:
       "Hybrid IEMs combine multiple driver types, usually dynamic and balanced armature drivers, to achieve a balanced sound signature. This approach leverages the strengths of each driver type, often resulting in a more detailed and accurate sound than single-driver IEMs.",
     _base: "hybridIEM",
@@ -61,7 +61,7 @@ export const categories = [
   {
     _id: 1007,
     name: "Dynamic IEM",
-    image: "https://i.ibb.co/B4NKfBZ/cat-Smart-Watch.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/diem/falconPro.webp",
     description:
       "Dynamic Driver IEMs are the most common type of IEMs, using a single dynamic driver to reproduce sound. They offer a warm, natural sound with good bass response, making them a popular choice for many listeners.",
     _base: "dynamicIEM",
@@ -69,7 +69,7 @@ export const categories = [
   {
     _id: 1008,
     name: "Balance Armature IEM",
-    image: "https://i.ibb.co/4gwLwT2/cat-Gaming.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/baiem/m7.jpg",
     description:
       "Balanced armature (BA) IEMs are a type of in-ear monitor that uses a tiny, balanced armature driver to produce sound. This driver is incredibly efficient and capable of producing highly detailed and accurate sound. BA IEMs are known for their excellent clarity, detail retrieval, and fast transient response.",
     _base: "balanceArmatureIEM",
@@ -77,7 +77,7 @@ export const categories = [
   {
     _id: 1009,
     name: "True Wireless Earbuds",
-    image: "https://i.ibb.co/4gwLwT2/cat-Gaming.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/tws/mw07.jpg",
     description:
       "True Wireless Earbuds are completely wireless, offering convenience and portability. They connect to your device via Bluetooth and come in various designs, from earbuds that fit entirely in your ear to those that rest on the outer ear.",
     _base: "trueWirelessEarbuds",
