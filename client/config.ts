@@ -6,12 +6,12 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseUrl: "https://headphone-e-commerce2024.app/",
+        baseUrl: "https://headphone-e-commerce2024server.app/",
       };
       break;
     case "local":
       config = {
-        baseUrl: "http://localhost:8000",
+        baseUrl: "https://headphone-e-commerce2024server.app/",
       };
       break;
     default:
