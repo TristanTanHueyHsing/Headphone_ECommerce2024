@@ -44,6 +44,14 @@ const UserInfo = ({ currentUser }: UserTypes) => {
             Edit profile
           </button>
           <button
+            onClick={() =>
+              navigate("/editProfile")
+            }
+            className="rounded-md bg-white px-8 py-2.5 text-sm font-semibold  text-gray-900 hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
+          >
+            Delete profile
+          </button>
+          <button
             onClick={() => auth.signOut()}
             className="rounded-md bg-white px-8 py-2.5 text-sm font-semibold  text-gray-900 hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
           >
