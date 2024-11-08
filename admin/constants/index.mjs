@@ -13,7 +13,7 @@ export const categories = [
   {
     _id: 1001,
     name: "Open Back Headphones",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/openBack/wraith.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/openBack/wraith.webp",
     description:
       "Open-back headphones are a type of headphone that allows air to pass through the ear cups from the rear of the speaker driver.",
     _base: "openBackHeadphones",
@@ -21,7 +21,7 @@ export const categories = [
   {
     _id: 1002,
     name: "Closed Back Headphones",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/closedBack/99classic.png",
+    image: "http://localhost:8000/assets/itemAndLogo/closedBack/99classic.png",
     description:
       "Closed-back headphones are a type of headphone that completely seals the back of the ear cups, creating a closed chamber around the speaker driver. ",
     _base: "closedBackHeadphones",
@@ -29,7 +29,7 @@ export const categories = [
   {
     _id: 1003,
     name: "Over Ear Headphones",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/dt1990pro.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/over_ear/dt1990pro.webp",
     description:
       "Closed-back headphones are a type of headphone that completely seals the back of the ear cups, creating a closed chamber around the speaker driver. ",
     _base: "overEarHeadphones",
@@ -37,7 +37,7 @@ export const categories = [
   {
     _id: 1004,
     name: "Wireless Headphones",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/h7.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/wireless/h7.webp",
     description:
       "Wireless headphones offer the freedom to move around without the constraints of tangled wires. They connect to your devices via Bluetooth or other wireless technologies, allowing you to enjoy your music, podcasts, or calls without being tethered to a device.",
     _base: "wirelessHeadphones",
@@ -45,7 +45,7 @@ export const categories = [
   {
     _id: 1005,
     name: "Planar IEM",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/planariem/stellaris.jpg",
+    image: "http://localhost:8000/assets/itemAndLogo/planariem/stellaris.jpg",
     description:
       "Planar Magnetic IEMs offer a detailed and accurate sound with a wide soundstage. They use a large, flat diaphragm suspended between magnets to produce sound, resulting in a unique listening experience.",
     _base: "planarIEM",
@@ -53,7 +53,7 @@ export const categories = [
   {
     _id: 1006,
     name: "Hybrid IEM",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/hybridiem/nemesis.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/hybridiem/nemesis.webp",
     description:
       "Hybrid IEMs combine multiple driver types, usually dynamic and balanced armature drivers, to achieve a balanced sound signature. This approach leverages the strengths of each driver type, often resulting in a more detailed and accurate sound than single-driver IEMs.",
     _base: "hybridIEM",
@@ -61,7 +61,7 @@ export const categories = [
   {
     _id: 1007,
     name: "Dynamic IEM",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/falconPro.webp",
+    image: "http://localhost:8000/assets/itemAndLogo/diem/falconPro.webp",
     description:
       "Dynamic Driver IEMs are the most common type of IEMs, using a single dynamic driver to reproduce sound. They offer a warm, natural sound with good bass response, making them a popular choice for many listeners.",
     _base: "dynamicIEM",
@@ -69,7 +69,7 @@ export const categories = [
   {
     _id: 1008,
     name: "Balance Armature IEM",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/m7.jpg",
+    image: "http://localhost:8000/assets/itemAndLogo/baiem/m7.jpg",
     description:
       "Balanced armature (BA) IEMs are a type of in-ear monitor that uses a tiny, balanced armature driver to produce sound. This driver is incredibly efficient and capable of producing highly detailed and accurate sound. BA IEMs are known for their excellent clarity, detail retrieval, and fast transient response.",
     _base: "balanceArmatureIEM",
@@ -77,7 +77,7 @@ export const categories = [
   {
     _id: 1009,
     name: "True Wireless Earbuds",
-    image: "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/mw07.jpg",
+    image: "http://localhost:8000/assets/itemAndLogo/tws/mw07.jpg",
     description:
       "True Wireless Earbuds are completely wireless, offering convenience and portability. They connect to your device via Bluetooth and come in various designs, from earbuds that fit entirely in your ear to those that rest on the outer ear.",
     _base: "trueWirelessEarbuds",
@@ -89,8 +89,8 @@ export const products = [
     _id: 2001,
     name: "Campfire Audio Ara",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/ara.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/arag.jpg",
+      "http://localhost:8000/assets/itemAndLogo/baiem/ara.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/arag.jpg",
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -111,8 +111,8 @@ export const products = [
     _id: 2002,
     name: "Nocturnal Audio Atlantis",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/atlantis.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/atlantisg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/baiem/atlantis.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/atlantisg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -133,8 +133,8 @@ export const products = [
     _id: 2003,
     name: "Dunu SA6 MKII",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/dunusa6mkii.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/sa6mkiig.jpg"
+      "http://localhost:8000/assets/itemAndLogo/baiem/dunusa6mkii.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/sa6mkiig.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -155,8 +155,8 @@ export const products = [
     _id: 2004,
     name: "Sony M7",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/m7.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/m7g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/baiem/m7.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/m7g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -177,8 +177,8 @@ export const products = [
     _id: 2005,
     name: "Fearless Audio S8Z",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/s8z.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/s8zg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/baiem/s8z.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/s8zg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -199,8 +199,8 @@ export const products = [
     _id: 2006,
     name: "Moondrop Chu",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/chu.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/chug.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/chu.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/chug.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -221,8 +221,8 @@ export const products = [
     _id: 2007,
     name: "Dunu Luna",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/luna.png",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/lunag.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/luna.png",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/lunag.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -243,8 +243,8 @@ export const products = [
     _id: 2008,
     name: "Tanchjim Origin",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/origin.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/origing.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/origin.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/origing.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -265,8 +265,8 @@ export const products = [
     _id: 2009,
     name: "Softears Turii",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/turii.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/turiig.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/turii.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/turiig.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -287,8 +287,8 @@ export const products = [
     _id: 2010,
     name: "Sennheiser HD600",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/hd600.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/oegraph/hd600g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/over_ear/hd600.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/hd600g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -309,8 +309,8 @@ export const products = [
     _id: 2011,
     name: "Sennheiser HD800S",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/hd800s.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/oegraph/hd800sg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/over_ear/hd800s.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/hd800sg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -331,8 +331,8 @@ export const products = [
     _id: 2012,
     name: "Focal Bathys",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/bathys.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/oegraph/bathysg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/over_ear/bathys.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/bathysg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -353,8 +353,8 @@ export const products = [
     _id: 2013,
     name: "Hifiman Sundara",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/sundarav2.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/oegraph/sundarag.jpg"
+      "http://localhost:8000/assets/itemAndLogo/over_ear/sundarav2.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/sundarag.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -375,8 +375,8 @@ export const products = [
     _id: 2014,
     name: "Beyerdynamic DT1990 Pro",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/over_ear/dt1990pro.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/oegraph/dt1990prog.jpg"
+      "http://localhost:8000/assets/itemAndLogo/over_ear/dt1990pro.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/oegraph/dt1990prog.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -397,8 +397,8 @@ export const products = [
     _id: 2015,
     name: "Shure Aonic 50",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/aonic.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/wirelessgraph/aonicg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/wireless/aonic.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/aonicg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -419,8 +419,8 @@ export const products = [
     _id: 2016,
     name: "Sennheiser Momentum 4",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/momentum.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/wirelessgraph/momentumg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/wireless/momentum.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/momentumg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -441,8 +441,8 @@ export const products = [
     _id: 2017,
     name: "Sony WH-1000XM5",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/sony.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/wirelessgraph/sonyg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/wireless/sony.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/sonyg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -463,8 +463,8 @@ export const products = [
     _id: 2018,
     name: "B&W PX",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/px.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/wirelessgraph/pxg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/wireless/px.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/pxg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -485,8 +485,8 @@ export const products = [
     _id: 2019,
     name: "B&O BeoPlay H7",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/wireless/h7.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/wirelessgraph/h7g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/wireless/h7.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/wirelessgraph/h7g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -507,8 +507,8 @@ export const products = [
     _id: 2020,
     name: "Dita Dream XLS",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/xls.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/xlsg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/xls.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/xlsg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -529,8 +529,8 @@ export const products = [
     _id: 2021,
     name: "Elysian X",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/hybridiem/x.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/hyGraph/xg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/hybridiem/x.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/hyGraph/xg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -551,8 +551,8 @@ export const products = [
     _id: 2022,
     name: "Empire Ears Legend EVO",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/hybridiem/evo.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/hyGraph/evog.jpg"
+      "http://localhost:8000/assets/itemAndLogo/hybridiem/evo.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/hyGraph/evog.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -573,8 +573,8 @@ export const products = [
     _id: 2023,
     name: "Empire Ears Nemesis",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/hybridiem/nemesis.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/hyGraph/nemesisg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/hybridiem/nemesis.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/hyGraph/nemesisg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -595,8 +595,8 @@ export const products = [
     _id: 2024,
     name: "Etymotic ER4SR",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/baiem/ety.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/bagraph/etyg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/baiem/ety.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/bagraph/etyg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -617,8 +617,8 @@ export const products = [
     _id: 2025,
     name: "Final Audio A8000",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/a8000.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/a8000g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/a8000.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/a8000g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -639,8 +639,8 @@ export const products = [
     _id: 2026,
     name: "Dunu Falcon Pro",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/falconPro.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/falconprog.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/falconPro.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/falconprog.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -661,8 +661,8 @@ export const products = [
     _id: 2027,
     name: "Jomo Trinity",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/hybridiem/trinity.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/hyGraph/trinity.jpg"
+      "http://localhost:8000/assets/itemAndLogo/hybridiem/trinity.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/hyGraph/trinity.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -683,8 +683,8 @@ export const products = [
     _id: 2028,
     name: "JVC HA-FW10000",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/diem/jvc.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/dgraph/fw10000g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/diem/jvc.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/dgraph/fw10000g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -705,8 +705,8 @@ export const products = [
     _id: 2029,
     name: "Thieaudio Wraith",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/openBack/wraith.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/openGraph/wraithg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/openBack/wraith.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/openGraph/wraithg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -727,8 +727,8 @@ export const products = [
     _id: 2030,
     name: "Meze Audio Elite",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/openBack/elite.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/openGraph/eliteg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/openBack/elite.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/openGraph/eliteg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -749,8 +749,8 @@ export const products = [
     _id: 2031,
     name: "Fostex TH909",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/closedBack/th909.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/closedGraph/909g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/closedBack/th909.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/closedGraph/909g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -771,8 +771,8 @@ export const products = [
     _id: 2032,
     name: "Sony MDR-Z1R",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/closedBack/mdrz1r.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/closedGraph/z1rg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/closedBack/mdrz1r.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/closedGraph/z1rg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -793,8 +793,8 @@ export const products = [
     _id: 2033,
     name: "Meze 99 Classics",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/closedBack/99classic.png",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/closedGraph/99g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/closedBack/99classic.png",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/closedGraph/99g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -815,8 +815,8 @@ export const products = [
     _id: 2034,
     name: "Audio Technica ATH-AWKT",
     images: [
-     "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/closedBack/awkt.webp",
-     "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/closedGraph/awktg.jpg"
+     "http://localhost:8000/assets/itemAndLogo/closedBack/awkt.webp",
+     "http://localhost:8000/assets/itemAndLogo/frgraphs/closedGraph/awktg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -837,8 +837,8 @@ export const products = [
     _id: 2035,
     name: "Hifiman HE1000se",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/openBack/he1000.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/openGraph/he1000g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/openBack/he1000.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/openGraph/he1000g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -859,8 +859,8 @@ export const products = [
     _id: 2036,
     name: "Stax SR-009S",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/openBack/stax.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/openGraph/staxg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/openBack/stax.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/openGraph/staxg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -881,8 +881,8 @@ export const products = [
     _id: 2037,
     name: "Oriolus Szalayi",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/planariem/szalayi.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/planarGraph/szalayig.png"
+      "http://localhost:8000/assets/itemAndLogo/planariem/szalayi.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/planarGraph/szalayig.png"
 
     ],
     description:
@@ -904,8 +904,8 @@ export const products = [
     _id: 2038,
     name: "Moondrop Stellaris",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/planariem/stellaris.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/planarGraph/stellarisg.png"
+      "http://localhost:8000/assets/itemAndLogo/planariem/stellaris.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/planarGraph/stellarisg.png"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -926,8 +926,8 @@ export const products = [
     _id: 2039,
     name: "Audeze Euclid",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/planariem/euclid.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/planarGraph/euclidg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/planariem/euclid.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/planarGraph/euclidg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -948,8 +948,8 @@ export const products = [
     _id: 2040,
     name: "Letshuoer S12",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/planariem/s12.webp",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/planarGraph/s12g.png"
+      "http://localhost:8000/assets/itemAndLogo/planariem/s12.webp",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/planarGraph/s12g.png"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -970,8 +970,8 @@ export const products = [
     _id: 2041,
     name: "Master & Dynamic MW07",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/mw07.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/twsGraph/mw07g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/tws/mw07.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/twsGraph/mw07g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -992,8 +992,8 @@ export const products = [
     _id: 2042,
     name: "Noble Falcon",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/nobleFalcon.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/twsGraph/nobleg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/tws/nobleFalcon.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/twsGraph/nobleg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -1014,8 +1014,8 @@ export const products = [
     _id: 2043,
     name: "Lypertek Tevi",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/tevi.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/twsGraph/tevig.jpg"
+      "http://localhost:8000/assets/itemAndLogo/tws/tevi.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/twsGraph/tevig.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -1036,8 +1036,8 @@ export const products = [
     _id: 2044,
     name: "Nuarl NT100",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/nuarl.jpg",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/twsGraph/nuarlg.jpg"
+      "http://localhost:8000/assets/itemAndLogo/tws/nuarl.jpg",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/twsGraph/nuarlg.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
@@ -1058,8 +1058,8 @@ export const products = [
     _id: 2045,
     name: "Sony WF-1000XM3",
     images: [
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/tws/1000xm3.png",
-      "http://headphone-e-commerce2024server.vercel.app/assets/itemAndLogo/frgraphs/twsGraph/1000xm3g.jpg"
+      "http://localhost:8000/assets/itemAndLogo/tws/1000xm3.png",
+      "http://localhost:8000/assets/itemAndLogo/frgraphs/twsGraph/1000xm3g.jpg"
     ],
     description:
       "Immerse yourself in your favorite music with our high-quality headphones and IEMs. Experience rich sound, powerful bass, and crystal-clear highs.",
